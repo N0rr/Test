@@ -4,7 +4,7 @@
 .slider__items {
     height: 244px;
 
-    background: url(/static/img/content/tabs-slider-bg.jpg)no-repeat 50% 0;
+    background: url(%=static=%content/tabs-slider-bg.jpg)no-repeat 50% 0;
 }
 
 .slider__item {
@@ -44,7 +44,7 @@
     .slider__items {
         height: 354px;
 
-        background: url(/static/img/content/tabs-slider-tablet-bg.jpg)no-repeat 50% 0;
+        background: url(%=static=%content/tabs-slider-tablet-bg.jpg)no-repeat 50% 0;
     }
 
     .slider__item {
@@ -114,7 +114,7 @@
     .slider__items {
         height: 434px;
 
-        background: url(/static/img/content/tabs-slider-desktop-bg.jpg)no-repeat 50% 94%;
+        background: url(%=static=%content/tabs-slider-desktop-bg.jpg)no-repeat 50% 94%;
         box-shadow: 0 21px 0 -16px rgba(113,113,113, .7),
         0 48px 0 -38px rgba(196,196,196, .7);
     }

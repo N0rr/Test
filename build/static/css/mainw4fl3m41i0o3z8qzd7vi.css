@@ -973,7 +973,7 @@ html, body {
   font-size: 18px;
   color: #b2b2b2;
   border: 1px solid #c8c8c8;
-  background: url(/static/img/minified-svg/2.svg) no-repeat 95% 50%;
+  background: url(../img//minified-svg/2.svg) no-repeat 95% 50%;
 }
 
 @media (min-width: 600px) {
@@ -1286,7 +1286,7 @@ html, body {
 
 .slider__items {
   height: 244px;
-  background: url(/static/img/content/tabs-slider-bg.jpg) no-repeat 50% 0;
+  background: url(../img/content/tabs-slider-bg.jpg) no-repeat 50% 0;
 }
 
 .slider__item {
@@ -1322,7 +1322,7 @@ html, body {
 @media (min-width: 600px) {
   .slider__items {
     height: 354px;
-    background: url(/static/img/content/tabs-slider-tablet-bg.jpg) no-repeat 50% 0;
+    background: url(../img/content/tabs-slider-tablet-bg.jpg) no-repeat 50% 0;
   }
   .slider__item {
     width: 90%;
@@ -1388,7 +1388,7 @@ html, body {
 @media (min-width: 960px) {
   .slider__items {
     height: 434px;
-    background: url(/static/img/content/tabs-slider-desktop-bg.jpg) no-repeat 50% 94%;
+    background: url(../img/content/tabs-slider-desktop-bg.jpg) no-repeat 50% 94%;
     box-shadow: 0 21px 0 -16px rgba(113, 113, 113, 0.7), 0 48px 0 -38px rgba(196, 196, 196, 0.7);
   }
   .slider__item {
@@ -1409,7 +1409,7 @@ html, body {
     text-shadow: none;
   }
   .slider__icon {
-    background-image: url(../img/png-sprite/96dpi/spritefjcf06r28b8y0pwlv7vi.png);
+    background-image: url(../img/png-sprite/96dpi/spritew4fl3m41i0o3z8qzd7vi.png);
     background-position: 0px 0px;
     width: 28px;
     height: 30px;
@@ -1461,7 +1461,6 @@ html, body {
           justify-content: center;
   padding: 0;
   margin: 0;
-  border: 0;
   border-bottom: 1px solid #c8c8c8;
 }
 
@@ -1570,5 +1569,3 @@ html, body {
     margin-bottom: 80px;
   }
 }
-
-/*# sourceMappingURL=main.css.map */
